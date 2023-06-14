@@ -1,3 +1,3 @@
-category,word1,word2,word3,word4,word5,word6,word7,word8,word9,word10
-location,nightingale park,allendale park,redcliff's mansion,allendale train station,golden clover,grim goblin,greychapel,tower of ardhalis,mirage opera house,ganbury street
-character,lauren,kym,hawkes,tim,sake,sinclair,kieran,davenport,ryan,dakan
+Tag,word1,word2,word3,word4,word5,word6,word7,word8,word9,word10
+PERSON,sinclair,hawkes,phantom,scythe,leader,ladell,sake,lauren,anslow,hermann
+LOC,allendale ,allendale train station,golden clover,the carmine camelia,greychapel,grim goblin,l'arlequin,docks,tower of ardhalis,Allendale 
