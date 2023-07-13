@@ -1,0 +1,7 @@
+[
+  ["John Smith went to Paris for vacation.", [[0, 10, "PERSON"], [18, 23, "LOC"]]],
+  ["London is a beautiful city.", [[0, 6, "LOC"]]],
+  ["Mary visited the Eiffel Tower in Paris.", [[0, 4, "PERSON"], [24, 29, "LOC"]]],
+  ["New York City is known for its skyscrapers.", [[0, 14, "LOC"]]],
+  ["Michael Jordan played basketball for the Chicago Bulls.", [[0, 14, "PERSON"], [31, 45, "LOC"]]]
+]
